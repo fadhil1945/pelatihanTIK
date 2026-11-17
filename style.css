@@ -9,9 +9,9 @@ body {
      margain: 50px auto; /*50px jarak atas/bawah, auto menengahkan kiri/kanan*/
      padding: 20px
      background-color white;
-     bprder-radius 15px; /*membuat sudut menjadi melayang*/
+     border-radius 15px; /*membuat sudut menjadi melayang*/
      box-shadow: 0 4px 8px rgba(0,0,0,0,1); /*efek bayangan*/
-     text aligin: center; /*menengahkan semua teks di dalam kartu*/
+     text align: center; /*menengahkan semua teks di dalam kartu*/
 }
 .kartu-profil img {
   width: 150px;
